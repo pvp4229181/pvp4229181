@@ -132,7 +132,7 @@ Areas I'm actively exploring:
 
 ## 🤝 Let's Connect
 
-🌐 **Portfolio:** prathamvpandey.vercel.app  
+🌐 **Portfolio:** https://prathamvpandey.vercel.app/  
 💼 **LinkedIn:** linkedin.com/in/pratham-pandey-323221203  
 💻 **GitHub:** github.com/pvp4229181  
 📧 **Email:** pvp4229181@gmail.com
